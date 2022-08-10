@@ -10,12 +10,12 @@
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/ui-libraries/main/drawing/void/source.lua"))()
 
-local watermark = library:Watermark("Fallen v3 UI | Made by supg")
+local watermark = library:Watermark("Fucker v3 UI | Made by Ableakcsenja")
 -- watermark:Set("Watermark Set")
 -- watermark:Hide() -- toggles watermark
 
 local main = library:Load{
-    Name = "Fallen UI",
+    Name = "Fucker UI",
     SizeX = 500,
     SizeY = 650,
     Theme = "Midnight",
